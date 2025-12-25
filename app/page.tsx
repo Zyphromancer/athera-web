@@ -295,9 +295,9 @@ export default function AtheraRefinedHub() {
       <footer className="relative z-10 p-12 text-center border-t border-white/5 bg-black">
         <div className="flex flex-col items-center gap-4">
             <div className="flex items-center gap-3 text-gray-600 text-[8px] font-bold tracking-[0.4em] uppercase">
-                <span>London</span>
+                <span>Athera</span>
                 <span className="w-0.5 h-0.5 rounded-full bg-white/20" />
-                <span>San Francisco</span>
+                <span>Solutions</span>
                 <span className="w-0.5 h-0.5 rounded-full bg-white/20" />
                 <span>Global Lab</span>
             </div>
